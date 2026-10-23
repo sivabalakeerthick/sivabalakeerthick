@@ -5,7 +5,7 @@
 
 <h3 align="center">🌐 Portfolio & Resume</h3>
 <p align="center">
-  <a href="https://sivabalakeerthick.github.io/portfolio/" target="_blank">🌟 View My Portfolio</a> |
+  <a href="site:sivabalakeerthick.web.app" target="_blank">🌟 View My Portfolio</a> |
   <a href="https://drive.google.com/file/d/1Tf0JHg6y7Fi5LGKxxK9sVoW0YDbxQvDf/view?usp=sharing" target="_blank">📄 Resume</a>
 </p>
 
