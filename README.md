@@ -1,9 +1,9 @@
 <div align="center">
 
-  <h1>Hi 👋, I'm <span style="color: #38bdf8;">Siva Bala Keerthick</span></h1>
+  <h1>Hi 👋, I'm <span style="color: #00bcd4;">Siva Bala Keerthick G</span></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Software+Developer+from+India;Full-Stack+%26+Backend+Enthusiast;Passionate+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BCD4&center=true&vCenter=true&width=520&lines=Full+Stack+Developer+%26+UI%2FUX+Engineer;Angular+%26+Spring+Boot+Specialist;Agentic+RAG+%26+Generative+AI+Engineer;Programmer+Analyst+at+Cognizant" alt="Typing SVG" />
   </a>
 
   <p>
@@ -16,12 +16,9 @@
     <a href="https://linkedin.com/in/sivabalakeerthick" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://instagram.com/sivabalakeerthick" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=sivabalakeerthick&label=Profile%20Views&color=0284c7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sivabalakeerthick&label=Profile%20Views&color=00bcd4&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -29,60 +26,66 @@
 
 ### 🚀 About Me
 
-- 🔭 **Current Focus:** Developing scalable web applications and mastering full-stack architecture.
-- 🌱 **Learning & Exploring:** Advanced Spring Boot microservices, modern cloud integrations, and design patterns.
-- 💡 **Passion:** Clean code, robust system design, and building user-centric solutions.
-- 💬 **Ask Me About:** Java, Python, React, Spring Boot, SQL, and Web Development.
-- 📫 **Get in Touch:** Reach out via [LinkedIn](https://linkedin.com/in/sivabalakeerthick) or explore my [Portfolio](https://sivabalakeerthick.web.app).
+- 💼 **Current Role:** Programmer Analyst at **Cognizant** (Bengaluru, India).
+- 🔭 **Core Focus:** Full-stack architecture, high-performance web applications using **Angular** and **Spring Boot**, and scalable microservices.
+- 🧠 **AI & Emerging Tech:** Building **Agentic RAG** workflows and LLM pipelines using **LangGraph**, **LangChain**, and vector databases.
+- 💬 **Ask Me About:** Angular, TypeScript, Java, Spring Boot, FastAPI, Python, RAG Architecture, and System Design.
+- 📫 **Connect with Me:** Reach out on [LinkedIn](https://linkedin.com/in/sivabalakeerthick) or explore my interactive [Portfolio](https://sivabalakeerthick.web.app).
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills
 
-#### 💻 Languages
+#### 🧠 Generative AI & Agentic RAG
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG_Architecture-6366F1?style=for-the-badge&logo=probot&logoColor=white" alt="RAG Architecture"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Gemini_%26_Claude_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Models & APIs"/>
+</p>
+
+#### 💻 Frontend & UI Architecture
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/CSS3%20%2F%20SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="CSS3 / SCSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
-#### ⚛️ Frameworks & Libraries
+#### ⚙️ Backend & Systems Architecture
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/REST_APIs%20%26%20Microservices-0284C7?style=for-the-badge" alt="REST APIs & Microservices"/>
 </p>
 
-#### 🗄️ Databases & Cloud
+#### 🛡️ Security, Identity & Databases
 <p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/>
 </p>
 
-#### 🧰 Tools & Version Control
+#### ☁️ Cloud, DevOps & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
 </p>
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivabalakeerthick&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivabalakeerthick&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=sivabalakeerthick&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
 <p align="center">
-  <i>⭐️ Thanks for stopping by! Feel free to connect or explore my repositories.</i>
+  <i>⭐️ Thanks for visiting my profile! Feel free to connect or explore my repositories.</i>
 </p>
